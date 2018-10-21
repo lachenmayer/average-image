@@ -1,0 +1,9 @@
+[package]
+name = "average-image"
+version = "0.1.0"
+authors = ["Harry Lachenmayer <harrylachenmayer@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+image = "0.20.0"
+hsl = "0.1.1"
